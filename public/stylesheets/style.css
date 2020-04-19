@@ -1,0 +1,16 @@
+body {
+  min-height: 2000px;
+  padding-top: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.chatText {
+  color: azure;
+  
+}
